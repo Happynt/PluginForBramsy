@@ -1,0 +1,6 @@
+name: PluginForBramsy
+version: 1.0
+author: Erez
+main: me.erez.PluginForBramsy.Main
+description: Prevents the glass head from being dropped on a player's death
+api-version: 1.18
